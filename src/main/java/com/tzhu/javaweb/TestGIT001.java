@@ -1,4 +1,4 @@
 package com.tzhu.javaweb;
 
-public class Test002 {
+public class TestGIT001 {
 }
